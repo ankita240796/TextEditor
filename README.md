@@ -1,2 +1,2 @@
 # TextEditor
-Minimalstic Text Editor
+Minimalist Text Editor
